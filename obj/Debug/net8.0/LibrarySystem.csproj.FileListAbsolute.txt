@@ -1,0 +1,14 @@
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\bin\Debug\net8.0\LibrarySystem.exe
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\bin\Debug\net8.0\LibrarySystem.deps.json
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\bin\Debug\net8.0\LibrarySystem.dll
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\bin\Debug\net8.0\LibrarySystem.pdb
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.dll
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\refint\LibrarySystem.dll
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.pdb
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\Ziad Atta\source\repos\LibraryOfBook\obj\Debug\net8.0\ref\LibrarySystem.dll

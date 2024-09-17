@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|c:\\users\\ziad atta\\source\\repos\\libraryofbook\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE985E1-4DD1-41B8-AEAA-0F0B671A0B3F}|LibrarySystem.csproj|solutionrelative:librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:32:19.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryCard.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:51:34.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:44:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "LibraryUser.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\LibraryUser.cs",
+              "RelativeToolTip": "LibraryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:49:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:41:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:40:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\Users\\Ziad Atta\\source\\repos\\LibraryOfBook\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:50:14.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
